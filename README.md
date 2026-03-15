@@ -10,7 +10,7 @@
 ### 🧑‍💻 About Me
 
 - 🔐 **IAM Security Specialist** with hands-on experience in enterprise identity governance across Microsoft Entra ID, Active Directory, Okta, SailPoint, and Citrix
-- 🏢 Currently @ **Diot-Siaci** as Infrastructure Engineer – Identity & Access Platforms
+- 🏢 Currently @ **capgemini** as Infrastructure Engineer – Identity & Access Platforms
 - ⚙️ Building PowerShell automation for privileged account lifecycle, provisioning & incident response
 - 📋 Deep experience with **SOX compliance**, RBAC, least-privilege enforcement & access reviews
 - 🎯 Pursuing **SC-100** (Microsoft Cybersecurity Architect) — SC-300 already in the bag
